@@ -9,20 +9,6 @@ We present the Single-Photon Real Dataset, a comprehensive dataset containing 11
 `Z_true`: Ground-truth real depth maps with sub-millimeter precision
 
 
-## Downloads
-
-The Single-Photon Real Dataset is approximately 2.5 GB in size and available for download through multiple channels:
-
-**Torrent Download (Recommended)**:[Si](https://example.com/dataset.torrent)[ngle-](https://example.com/dataset.torrent)[Photo](https://example.com/dataset.torrent)[n Dat](https://example.com/dataset.torrent)[aset](https://example.com/dataset.torrent)[ Torre](https://example.com/dataset.torrent)[nt](https://example.com/dataset.torrent) (includes all categories and metadata)
-
-**Direct HTTP Download**:
-
-[Dat](https://example.com/dataset.tar.gz)[aset](https://example.com/dataset.tar.gz)[ Archi](https://example.com/dataset.tar.gz)[ve](https://example.com/dataset.tar.gz) (1.8 GB, contains all npz files)
-
-[Metad](https://example.com/metadata.csv)[ata F](https://example.com/metadata.csv)[ile](https://example.com/metadata.csv) (20 MB, category labels and file indices)
-
-We recommend using BitTorrent for faster and more reliable downloads, especially for large-scale research projects.
-
 ## Category List
 
 The dataset includes the following 11 object categories, covering common urban and natural scene elements:
