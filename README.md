@@ -9,12 +9,19 @@ We present the Single-Photon Real Dataset, a comprehensive dataset containing 11
 `Z_true`: Ground-truth real depth maps with sub-millimeter precision
 
 @misc{zhang2025labelefficient,
+
     title={Label-efficient Single Photon Images Classification via Active Learning},
+    
     author={Zili Zhang and Ziting Wen and Yiheng Qiang and Hongzhou Dong and Wenle Dong and Xinyang Li and Xiaofan Wang and Xiaoqiang Ren},
+    
     year={2025},
+    
     eprint={2505.04376},
+    
     archivePrefix={arXiv},
+    
     primaryClass={cs.CV}
+    
 }
 
 ## Direct HTTP Download(Github)
