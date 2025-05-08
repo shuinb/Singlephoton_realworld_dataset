@@ -8,6 +8,8 @@ We present the Single-Photon Real Dataset, a comprehensive dataset containing 11
 
 `Z_true`: Ground-truth real depth maps with sub-millimeter precision
 
+## Direct HTTP Download
+[**Dataset Archive**](https://github.com/shuinb/Singlephoton_realworld_dataset/raw/master/realworld.zip) (1.8 GB, contains all .npz files)
 
 ## Category List
 
