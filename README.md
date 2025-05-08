@@ -8,7 +8,8 @@ We present the Single-Photon Real Dataset, a comprehensive dataset containing 11
 
 `Z_true`: Ground-truth real depth maps with sub-millimeter precision
 
-@misc{zhang2025labelefficient,
+
+    @misc{zhang2025labelefficient,
 
     title={Label-efficient Single Photon Images Classification via Active Learning},
     
