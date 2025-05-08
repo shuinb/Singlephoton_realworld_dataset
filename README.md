@@ -8,8 +8,18 @@ We present the Single-Photon Real Dataset, a comprehensive dataset containing 11
 
 `Z_true`: Ground-truth real depth maps with sub-millimeter precision
 
-## Direct HTTP Download
-[**Dataset Archive**](https://github.com/shuinb/Singlephoton_realworld_dataset/raw/master/realworld.zip) (1.8 GB, contains all .npz files)
+@misc{zhang2025labelefficient,
+    title={Label-efficient Single Photon Images Classification via Active Learning},
+    author={Zili Zhang and Ziting Wen and Yiheng Qiang and Hongzhou Dong and Wenle Dong and Xinyang Li and Xiaofan Wang and Xiaoqiang Ren},
+    year={2025},
+    eprint={2505.04376},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
+
+## Direct HTTP Download(Github)
+[**Download Dataset**](https://github.com/shuinb/Singlephoton_realworld_dataset/raw/master/realworld.zip) (38.2 MB, contains all .npz files)
+
 
 ## Category List
 
